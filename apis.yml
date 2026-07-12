@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://rawg.io/apidocs
 common:
+  - type: DomainSecurity
+    url: security/rawg-io-domain-security.yml
   - type: Website
     url: https://rawg.io/apidocs
   - type: PublicAPIsListing
